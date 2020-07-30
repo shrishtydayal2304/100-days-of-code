@@ -7,7 +7,7 @@
 
 ### Day 2 : 30th July 2020
 ######  *Solved java questions on hackerrank and completed task 1 of capture the flag room! tryhackme*
-###### *Participated in H@cktivityCon CTF(https://ctf.hacktivitycon.com/challenges_) and solved forensics and warmups challanges*
+###### *Participated in H@cktivityCon CTF at https://ctf.hacktivitycon.com/challenges_ and solved forensics and warmups challanges*
 
 
 
