@@ -1,7 +1,7 @@
 # 100DaysOfCode
  
 ### Day 1 : 29th July 2020
-######  *Solved one java question on hackerrank and competed Introductory Researchingroom!on tryhackme*
+######  *Solved one java question on hackerrank and compeleted Introductory Researchingroom!on tryhackme*
 ###### [Check it out on tryhackme](https://tryhackme.com/room/introtoresearch)
 
 
@@ -18,7 +18,15 @@
 ### Day 4 : 1st August 2020
 ######  *Solved java questions on hackerank*
 ######  *Completed upto 23rd level of bandit(over the wire) https://overthewire.org/wargames/bandit/. 
+Check at :https://github.com/shrishtydayal2304/SECURITY
+
+
+### Day 5 : 2nd August 2020
+######  *Solved java questions on hackerank*
+######  *Completed upto 25th level of bandit(over the wire) https://overthewire.org/wargames/bandit/. and learned about bash scripting*
 Check at :https://github.com/shrishtydayal2304/SECURITY-
+###### Tried tasks of simple CTF room of tryhackme
+
 
 
 
