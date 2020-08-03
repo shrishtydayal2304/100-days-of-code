@@ -29,6 +29,13 @@ Check at :https://github.com/shrishtydayal2304/SECURITY-
 
 
 
+### Day 6 : 3rd August 2020
+###### *Solved one forensics and one crypto challenge of pico ctf 2018 for practice*
+Check at :https://github.com/shrishtydayal2304/SECURITY-
+###### Tried level 25- 26 of bandit.
+
+
+
 
 
 
