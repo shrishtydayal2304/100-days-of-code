@@ -35,6 +35,14 @@ Check at :https://github.com/shrishtydayal2304/SECURITY-
 ###### Tried level 25- 26 of bandit.
 
 
+### Day 7 : 4th August 2020
+###### *Solved few challenges of cyberhack ctf*
+###### check at :https://github.com/shrishtydayal2304/SECURITY-
+###### *Solved upto task 2 in Anthem room of tryhackme*
+###### * Solved two arrays questions from geeks for geeks*
+###### check at :https://github.com/shrishtydayal2304/Gfg-practise
+
+
 
 
 
