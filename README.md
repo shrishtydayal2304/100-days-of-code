@@ -25,7 +25,7 @@ Check at :https://github.com/shrishtydayal2304/SECURITY
 ######  *Solved java questions on hackerank*
 ######  *Completed upto 25th level of bandit(over the wire) https://overthewire.org/wargames/bandit/. and learned about bash scripting*
 Check at :https://github.com/shrishtydayal2304/SECURITY-
-###### Tried tasks of simple CTF room of tryhackme
+###### Tried tasks of simple CTF room of tryhackme !
 
 
 
