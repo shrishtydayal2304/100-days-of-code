@@ -43,6 +43,13 @@ Check at :https://github.com/shrishtydayal2304/SECURITY-
 ###### check at :https://github.com/shrishtydayal2304/Gfg-practise
 
 
+### Day 8 : 5th August 2020
+###### Finally completed all the levels of bandit(over the wire), the levels from 27 to 33 were all based on git commands
+https://overthewire.org/
+###### check at :https://github.com/shrishtydayal2304/SECURITY-
+###### Shortlisted for Education Outreach Batch-6 on 'Getting started with Cyber Security' by GirlScript Foundation :)
+
+
 
 
 
