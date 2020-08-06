@@ -50,6 +50,16 @@ https://overthewire.org/
 ###### Shortlisted for Education Outreach Batch-6 on 'Getting started with Cyber Security' by GirlScript Foundation :)
 
 
+### Day 9 : 6th August 2020
+###### Prepared the documentation of all the levels of bandit(over the wire.
+https://overthewire.org/
+###### check at :https://github.com/shrishtydayal2304/SECURITY-
+###### Solved array question on geeks for geeks.
+###### Solved few challenges of cyberhack_lpu and prepared documentation.
+
+
+
+
 
 
 
