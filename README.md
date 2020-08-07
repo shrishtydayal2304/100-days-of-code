@@ -58,6 +58,13 @@ https://overthewire.org/
 ###### Solved few challenges of cyberhack_lpu and prepared documentation.
 
 
+### Day 10 : th August 2020
+###### Participated in the DEFCON -REDTEAM VILLAGE CTF and solved challenges.The 24 hour ctf conducted by Defcon was such a wholesome experience
+###### Learned more how to solve osint challenges and learned how to use foremost tool and how to crack zip file.
+###### ranked 156 in this ctf with a total of 2731 score of our team.
+
+
+
 
 
 
