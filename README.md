@@ -40,29 +40,34 @@ Check at :https://github.com/shrishtydayal2304/SECURITY-
 ###### check at :https://github.com/shrishtydayal2304/SECURITY-
 ###### *Solved upto task 2 in Anthem room of tryhackme*
 ###### * Solved two arrays questions from geeks for geeks*
-###### check at :https://github.com/shrishtydayal2304/Gfg-practise
+###### *check at :https://github.com/shrishtydayal2304/Gfg-practise
 
 
 ### Day 8 : 5th August 2020
-###### Finally completed all the levels of bandit(over the wire), the levels from 27 to 33 were all based on git commands
+###### *Finally completed all the levels of bandit(over the wire), the levels from 27 to 33 were all based on git commands*
 https://overthewire.org/
-###### check at :https://github.com/shrishtydayal2304/SECURITY-
-###### Shortlisted for Education Outreach Batch-6 on 'Getting started with Cyber Security' by GirlScript Foundation :)
+###### *check at :https://github.com/shrishtydayal2304/SECURITY-*
+###### *Shortlisted for Education Outreach Batch-6 on 'Getting started with Cyber Security' by GirlScript Foundation :)*
 
 
 ### Day 9 : 6th August 2020
-###### Prepared the documentation of all the levels of bandit(over the wire.
+###### *Prepared the documentation of all the levels of bandit(over the wire.
 https://overthewire.org/
-###### check at :https://github.com/shrishtydayal2304/SECURITY-
-###### Solved array question on geeks for geeks.
-###### Solved few challenges of cyberhack_lpu and prepared documentation.
+###### *check at :https://github.com/shrishtydayal2304/SECURITY-
+###### *Solved array question on geeks for geeks.
+###### *Solved few challenges of cyberhack_lpu and prepared documentation.
 
 
-### Day 10 : th August 2020
-###### Participated in the DEFCON -REDTEAM VILLAGE CTF and solved challenges.The 24 hour ctf conducted by Defcon was such a wholesome experience
-###### Learned more how to solve osint challenges and learned how to use foremost tool and how to crack zip file.
-###### ranked 156 in this ctf with a total of 2731 score of our team.
+### Day 10 : 7th August 2020
+###### *Participated in the DEFCON -REDTEAM VILLAGE CTF and solved challenges.The 24 hour ctf conducted by Defcon was such a wholesome experience*
+###### *Learned more how to solve osint challenges and learned how to use foremost tool and how to crack zip file.*
+###### *ranked 156 in this ctf with a total of 2731 score of our team.*
 
+
+### Day 11 : 8th August 2020
+###### *Solved few array questions from geeks for geeks*
+###### *check at :https://github.com/shrishtydayal2304/Gfg-practise
+###### *practiced ctflearn previous challenges*
 
 
 
