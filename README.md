@@ -71,6 +71,13 @@ https://overthewire.org/
 
 
 
+### Day 12 : 9th August 2020
+###### *Solved few data structure questions from geeks for geeks*
+###### *check at :https://github.com/shrishtydayal2304/Gfg-practise*
+###### *Started OWASP TOP 10 room @tryhackme and completed DAY1 command injection practical*
+###### *Done with Goldman sachs aptitude exam*
+
+
 
 
 
