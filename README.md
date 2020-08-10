@@ -17,8 +17,8 @@
 
 ### Day 4 : 1st August 2020
 ######  *Solved java questions on hackerank*
-######  *Completed upto 23rd level of bandit(over the wire) https://overthewire.org/wargames/bandit/. 
-Check at :https://github.com/shrishtydayal2304/SECURITY
+######  *Completed upto 23rd level of bandit(over the wire) https://overthewire.org/wargames/bandit/.*
+*Check at :https://github.com/shrishtydayal2304/SECURITY*
 
 
 ### Day 5 : 2nd August 2020
@@ -37,9 +37,9 @@ Check at :https://github.com/shrishtydayal2304/SECURITY-
 
 ### Day 7 : 4th August 2020
 ###### *Solved few challenges of cyberhack ctf*
-###### check at :https://github.com/shrishtydayal2304/SECURITY-
+###### *check at :https://github.com/shrishtydayal2304/SECURITY-*
 ###### *Solved upto task 2 in Anthem room of tryhackme*
-###### * Solved two arrays questions from geeks for geeks*
+###### *Solved two arrays questions from geeks for geeks*
 ###### *check at :https://github.com/shrishtydayal2304/Gfg-practise*
 
 
@@ -51,7 +51,7 @@ https://overthewire.org/
 
 
 ### Day 9 : 6th August 2020
-###### *Prepared the documentation of all the levels of bandit(over the wire.
+###### *Prepared the documentation of all the levels of bandit(over the wire.*
 https://overthewire.org/
 ###### *check at :https://github.com/shrishtydayal2304/SECURITY-*
 ###### *Solved array question on geeks for geeks.*
