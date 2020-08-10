@@ -78,6 +78,14 @@ https://overthewire.org/
 ###### *Done with Goldman sachs aptitude exam*
 
 
+### Day 13 : 10th August 2020
+###### *Studied about compiler design and its phases*
+###### *Learned to use SpaceSniffer tool which is a freeware computer disk space analyser that let us understand how folders and files are structured on our disks.*
+###### *Practiced old ctf challenges from picoctf website.
+###### *check at :https://github.com/shrishtydayal2304/SECURITY-*
+
+
+
 
 
 
