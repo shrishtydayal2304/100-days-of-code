@@ -74,7 +74,7 @@ https://overthewire.org/
 ### Day 12 : 9th August 2020
 ###### *Solved few data structure questions from geeks for geeks*
 ###### *check at :https://github.com/shrishtydayal2304/Gfg-practise*
-###### *Started OWASP TOP 10 room @tryhackme and completed DAY1 command injection practical*
+###### *Started OWASP TOP10 room @tryhackme and completed DAY1 command injection practical*
 ###### *Done with Goldman sachs aptitude exam*
 
 
@@ -83,6 +83,14 @@ https://overthewire.org/
 ###### *Learned to use SpaceSniffer tool which is a freeware computer disk space analyser that let us understand how folders and files are structured on our disks.*
 ###### *Practiced old ctf challenges from picoctf website.*
 ###### *check at :https://github.com/shrishtydayal2304/SECURITY-*
+
+
+### Day 14 : 11th August 2020
+###### *Completed DAY2 challenge BROKEN AUTHEINTICATION of the OWASP TOP10 room @tryhackme and documented them*
+###### *check at : https://github.com/shrishtydayal2304/SECURITY-/tree/master/THM/OWASP%20TOP%2010*
+###### *Solved data structure questions from geeksfor geeks*
+
+
 
 
 
