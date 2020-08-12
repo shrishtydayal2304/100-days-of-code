@@ -91,6 +91,13 @@ https://overthewire.org/
 ###### *Solved data structure questions from geeksfor geeks*
 
 
+### Day 15 : 12th August 2020
+###### *Completed Google Dorking room @tryhackme. Learned about how google search engine and web crawler works. The robotx.txt file and how to know the disallowed and allowed files and directories and Sitemap and its importance* 
+###### *Solved one question of array from geeksforgeeks*
+###### *Participated in THE CYBER GRABS CTF https://ctf.thecybergrabs.com/ and solved questions of OSINT,CRYPTOGRAPHY,NETWORKING AND MISC*
+
+
+
 
 
 
