@@ -96,6 +96,11 @@ https://overthewire.org/
 ###### *Solved one question of array from geeksforgeeks*
 ###### *Participated in THE CYBER GRABS CTF https://ctf.thecybergrabs.com/ and solved questions of OSINT,CRYPTOGRAPHY,NETWORKING AND MISC*
 
+### Day 16 : 13th August 2020
+###### *Solved two array questions from geeksforgeeks*
+###### *Continued the challenges of THE CYBER GRABS CTF https://ctf.thecybergrabs.com/ .Our team ranked 13th in this ctf with a total score of 3270 points.*
+
+
 
 
 
