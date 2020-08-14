@@ -101,6 +101,12 @@ https://overthewire.org/
 ###### *Continued the challenges of THE CYBER GRABS CTF https://ctf.thecybergrabs.com/ .Our team ranked 13th in this ctf with a total score of 3270 points.*
 
 
+### Day 17 : 14th August 2020
+###### *Solved  array questions from geeksforgeeks*
+###### *Studied computer graphics.*
+
+
+
 
 
 
