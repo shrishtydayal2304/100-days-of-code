@@ -106,6 +106,13 @@ https://overthewire.org/
 ###### *Studied computer graphics.*
 
 
+### Day 18 : 15th August 2020
+###### *Solved data structure questions from geeksforgeeks*
+###### *Started Kenobi room @tryhackme and completed upto task 2.*
+###### *Explored about samba(smb) and used nmap to enumerate shares and learned how to enumerate samba for shares.*
+
+
+
 
 
 
