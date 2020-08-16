@@ -112,6 +112,13 @@ https://overthewire.org/
 ###### *Explored about samba(smb) and used nmap to enumerate shares and learned how to enumerate samba for shares.*
 
 
+### Day 19 : 16th August 2020
+###### *Solved data structure questions from geeksforgeeks*
+###### *Completed upto task 3 of Kenobi room @tryhackme.*
+###### *Solved the previous challenges of OSINT, WEB and Networking questions of the previous cybergrabs ctf*
+
+
+
 
 
 
