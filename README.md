@@ -117,6 +117,12 @@ https://overthewire.org/
 ###### *Completed upto task 3 of Kenobi room @tryhackme.*
 ###### *Solved the previous challenges of OSINT, WEB and Networking questions of the previous cybergrabs ctf*
 
+### Day 20 : 17th August 2020
+###### *Studied python data structure and implemented them*
+###### *Studied about openGL in computer graphics and Event handling using Mouse and Keyboard*
+###### *Documented the google dorking room @tryhackme*
+###### *check at: https://github.com/shrishtydayal2304/SECURITY-*
+
 
 
 
