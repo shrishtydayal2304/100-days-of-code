@@ -124,6 +124,15 @@ https://overthewire.org/
 ###### *check at: https://github.com/shrishtydayal2304/SECURITY-*
 
 
+### Day 21 : 18th August 2020
+###### *Practiced strings question from geeks for geeks*
+###### *completed this room! Check at: https://tryhackme.com/room/kenobi*
+###### *learned about samba var manipulation #suid #smb #kenobi , path manipluation*
+###### *manipulating a vulnerable version of proftpd to gain initial accessand proftpd*
+
+
+
+
 
 
 
