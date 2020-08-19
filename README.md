@@ -131,6 +131,12 @@ https://overthewire.org/
 ###### *manipulating a vulnerable version of proftpd to gain initial accessand proftpd*
 
 
+### Day 22 : 19th August 2020
+###### *Practiced strings question from geeks for geeks*
+###### *Studied Object-oriented analysis and design (OOAD)* 
+###### *Learned to make diffrent ER diagrams using tools like createy, visual paradigm ,star-uml*
+
+
 
 
 
