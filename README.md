@@ -137,6 +137,11 @@ https://overthewire.org/
 ###### *Learned to make diffrent ER diagrams using tools like createy, visual paradigm ,star-uml*
 
 
+### Day 23 : 20th August 2020
+###### *Practiced strings question from geeks for geeks*
+###### *Studied Find and Union data structures*
+ 
+
 
 
 
