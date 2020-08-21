@@ -140,6 +140,13 @@ https://overthewire.org/
 ### Day 23 : 20th August 2020
 ###### *Practiced strings question from geeks for geeks*
 ###### *Studied Find and Union data structures*
+
+### Day 24 : 21st August 2020
+###### Started CC: Steganography room @tryhackme*
+###### *Explored and used different stego tools like stegsuite, binwwalk, exiftool,stegoveritaz,zteg ,audio decoders like sonic visualizer and audacity*
+###### *Studied DDA algorithm(graphics algorithm)*
+
+
  
 
 
