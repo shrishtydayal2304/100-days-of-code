@@ -147,7 +147,7 @@ https://overthewire.org/
 ###### *Studied DDA algorithm(graphics algorithm)*
 
 ### Day 25 : 22nd August 2020
-###### *Completed the room CC:STEGENOGRAPGY @tryhackme*
+###### *Completed the room CC:STEGANOGRAPHY @tryhackme
 ###### *Solved few strings questions from geeks for geeks*
 
 
