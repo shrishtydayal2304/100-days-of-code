@@ -146,6 +146,10 @@ https://overthewire.org/
 ###### *Explored and used different stego tools like stegsuite, binwwalk, exiftool,stegoveritaz,zteg ,audio decoders like sonic visualizer and audacity*
 ###### *Studied DDA algorithm(graphics algorithm)*
 
+### Day 25 : 22nd August 2020
+###### *Completed the room CC:STEGENOGRAPGY @tryhackme*
+###### *Solved few strings questions from geeks for geeks*
+
 
  
 
