@@ -151,6 +151,12 @@ https://overthewire.org/
 ###### *Solved few strings questions from geeks for geeks*
 
 
+### Day 26 : 23rd August 2020
+###### *Completed the room Networking@tryhackme*
+###### *Used #subnet #routing #networking*
+###### *check here :https://link.medium.com/Y7eTYzqOb9* 
+###### *Studied compiler design*
+
  
 
 
