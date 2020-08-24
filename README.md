@@ -157,6 +157,12 @@ https://overthewire.org/
 ###### *check here :https://link.medium.com/Y7eTYzqOb9* 
 ###### *Studied compiler design*
 
+
+### Day 27 : 24st August 2020
+###### *Solved strings questions from geeks for geeks*
+###### *Studied opengl in computer graphics*
+
+
  
 
 
