@@ -162,6 +162,11 @@ https://overthewire.org/
 ###### *Solved strings questions from geeks for geeks*
 ###### *Studied opengl in computer graphics*
 
+### Day 28 : 25th August 2020
+###### *Practiced few python questions using function*
+###### *Learned to draw primitives in open gl*
+###### *Studied about mobile forensics*
+
 
  
 
