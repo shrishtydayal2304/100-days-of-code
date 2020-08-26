@@ -168,6 +168,15 @@ https://overthewire.org/
 ###### *Studied about mobile forensics*
 
 
+### Day 29 : 26th August 2020
+###### *Practiced few python questions using function*
+###### *Started the Crack hash me room @tryhackme and decrypted different hash*
+###### *used crackstation ,tunnelsup  and hashcat to decode the hash like sha1 ,md4,md5,sha256*
+###### *Written a C program to draw a green tringle using opengl*
+ 
+
+
+
  
 
 
