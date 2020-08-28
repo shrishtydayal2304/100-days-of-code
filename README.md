@@ -182,6 +182,13 @@ https://overthewire.org/
 
 
 
+ ### Day 31 : 28th August 2020
+###### *Participated in the RESTCON CTF and solved different challenges*
+###### *Successfully completed the Cloudsek XVigil Training which was based on Cyber Security Analyst Challenge.
+
+
+
+
  
 
 
