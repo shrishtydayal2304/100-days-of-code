@@ -186,6 +186,10 @@ https://overthewire.org/
 ###### *Participated in the RESTCON CTF and solved different challenges*
 ###### *Successfully completed the Cloudsek XVigil Training which was based on Cyber Security Analyst Challenge.
 
+ ### Day 32 : 29th August 2020
+###### *Participated in the NotPinkConCTF 2020 solved different challenges*
+###### *Written a C program to draw a scenery with mouse and keyboard events using OpenGL.*
+
 
 
 
