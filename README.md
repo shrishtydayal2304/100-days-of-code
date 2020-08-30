@@ -190,6 +190,12 @@ https://overthewire.org/
 ###### *Participated in the NotPinkConCTF 2020 solved different challenges*
 ###### *Written a C program to draw a scenery with mouse and keyboard events using OpenGL.*
 
+ ### Day 33 : 30th August 2020
+###### *Continued with the NotPinkConCTF 2020 my team ranked 15*
+###### *Studied Compiler design*
+###### *Written a C program to draw six primitives using opengl*
+
+
 
 
 
