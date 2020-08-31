@@ -195,6 +195,17 @@ https://overthewire.org/
 ###### *Studied Compiler design*
 ###### *Written a C program to draw six primitives using opengl*
 
+ ### Day 34 : 31st August 2020
+###### *Completed the room hydra@tryhackme*
+###### *Used bruteforce technique and used the hydra command for web post ,and sha*
+##### *I just published Tryhackme: Hydra Walkthrough at medium*
+      * Check the writeup at:https://link.medium.com/49e3o8KAo9*
+###### *Written a C program to draw y=mx+c using DDA algorithm*
+###### *Solved one array question from geeks for geeks*
+
+
+
+
 
 
 
