@@ -203,6 +203,9 @@ https://overthewire.org/
 ###### *Written a C program to draw y=mx+c using DDA algorithm*
 ###### *Solved one array question from geeks for geeks*
 
+ ### Day 35 : 1st September 2020
+###### *Studied lambda function and filter function in python and practiced questions on those topics*
+###### *Started the room Lian_Yu@tryhackme*
 
 
 
