@@ -208,6 +208,14 @@ https://overthewire.org/
 ###### *Started the room Lian_Yu@tryhackme*
 
 
+ ### Day 36 : 2nd September 2020
+###### *Completed DAY3 challenge [task 12] Sensitive Data exposure and task 20 of Day 6(security misconfiguration) of the OWASP TOP10 room @tryhackme*
+###### *used sqlite,crackstation to complete the task ,analyzed the webapp to get the directory name.*
+###### *Deployed the Vm and exploited the Security Misconfiguration to find the flag in the webapp*
+###### *Solved 2 array questions from geeks for geeks*
+###### *Completed the room pentestquestionaire @tryhackme*
+
+
 
 
 
