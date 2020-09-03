@@ -199,7 +199,7 @@ https://overthewire.org/
 ###### *Completed the room hydra@tryhackme*
 ###### *Used bruteforce technique and used the hydra command for web post ,and sha*
 ##### *I just published Tryhackme: Hydra Walkthrough at medium*
-      * Check the writeup at:https://link.medium.com/49e3o8KAo9*
+###### *Check the writeup at:https://link.medium.com/49e3o8KAo9 *
 ###### *Written a C program to draw y=mx+c using DDA algorithm*
 ###### *Solved one array question from geeks for geeks*
 
@@ -214,6 +214,14 @@ https://overthewire.org/
 ###### *Deployed the Vm and exploited the Security Misconfiguration to find the flag in the webapp*
 ###### *Solved 2 array questions from geeks for geeks*
 ###### *Completed the room pentestquestionaire @tryhackme*
+
+
+### Day 37 : 3rd September 2020
+###### *Completed DAY10 challenge [task 131  Insufficient Logging and Monitoring of the OWASP TOP10 room @tryhackme*
+###### *Studied about XML and XML External Entity (XXE) attack and completed the task[13-16] of DAY4 XML External Entity of the OWASP TOP10 room @tryhackme*
+###### Practiced few array questions from geeks for geeks*
+###### *Started the Natas - overthewire and completed about level 4 and documented them as well*
+###### *check here : https://github.com/shrishtydayal2304/SECURITY-/blob/master/Natas.md *
 
 
 
