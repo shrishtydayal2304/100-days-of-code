@@ -218,10 +218,16 @@ https://overthewire.org/
 
 ### Day 37 : 3rd September 2020
 ###### *Completed DAY10 challenge [task 131  Insufficient Logging and Monitoring of the OWASP TOP10 room @tryhackme*
-###### *Studied about XML and XML External Entity (XXE) attack and completed the task[13-16] of DAY4 XML External Entity of the OWASP TOP10 room @tryhackme*
 ###### Practiced few array questions from geeks for geeks*
 ###### *Started the Natas - overthewire and completed about level 4 and documented them as well*
-###### *check here : https://github.com/shrishtydayal2304/SECURITY-/blob/master/Natas.md *
+######  check here : https://github.com/shrishtydayal2304/SECURITY-/blob/master/Natas.md 
+
+
+### Day 38 : 4th September 2020
+###### *Continued with Natas - overthewire and completed from level 4- level 8 and documented them as well*
+###### *Studied about XML and XML External Entity (XXE) atta
+###### *Started studying bash scripting from datacamp and learned about command line bash script,variables and Control Statements in bash scripting and practiced the topics on datacamp exercise*
+######  check here : https://github.com/shrishtydayal2304/SECURITY-/blob/master/Natas.md 
 
 
 
