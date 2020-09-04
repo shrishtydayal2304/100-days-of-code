@@ -225,7 +225,7 @@ https://overthewire.org/
 
 ### Day 38 : 4th September 2020
 ###### *Continued with Natas - overthewire and completed from level 4- level 8 and documented them as well*
-###### *Studied about XML and XML External Entity (XXE) atta
+###### *Studied about XML and XML External Entity (XXE) attack and vulnerability and threats connected to it*
 ###### *Started studying bash scripting from datacamp and learned about command line bash script,variables and Control Statements in bash scripting and practiced the topics on datacamp exercise*
 ######  check here : https://github.com/shrishtydayal2304/SECURITY-/blob/master/Natas.md 
 
