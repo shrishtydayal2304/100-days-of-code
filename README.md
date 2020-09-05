@@ -230,6 +230,9 @@ https://overthewire.org/
 ######  check here : https://github.com/shrishtydayal2304/SECURITY-/blob/master/Natas.md 
 
 
+### Day 39 : 5th September 2020
+###### *Participated in a ctf and solved different ctf challenges and learned a lot *
+
 
 
 
