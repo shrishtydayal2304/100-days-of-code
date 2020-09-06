@@ -231,10 +231,11 @@ https://overthewire.org/
 
 
 ### Day 39 : 5th September 2020
-###### *Participated in a ctf and solved different ctf challenges and learned a lot *
+###### *Participated in a SimpleCTF and solved different ctf challenges and learned a lot *
 
-
-
+## Day 40 : 6th September 2020
+###### *Continued playing the Simple CTF and ranked 6. It was fun learning in the ctf and solving challenges*
+###### *Solved few array questions*
 
 
 
