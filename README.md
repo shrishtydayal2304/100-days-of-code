@@ -219,7 +219,7 @@ https://overthewire.org/
 ### Day 37 : 3rd September 2020
 ###### *Completed DAY10 challenge [task 131  Insufficient Logging and Monitoring of the OWASP TOP10 room @tryhackme*
 ###### Practiced few array questions from geeks for geeks*
-###### *Started the Natas - overthewire and completed about level 4 and documented them as well*
+###### *Started the Natas - overthewire and completed upto level 4 and documented them as well*
 ######  check here : https://github.com/shrishtydayal2304/SECURITY-/blob/master/Natas.md 
 
 
@@ -236,6 +236,11 @@ https://overthewire.org/
 ## Day 40 : 6th September 2020
 ###### *Continued playing the Simple CTF and ranked 6. It was fun learning in the ctf and solving challenges*
 ###### *Solved few array questions*
+
+## Day 41 : 7th September 2020
+###### *Compeleted the Day 4 XML(EXTENSIBLE MARKUP LANGUAGE) task of owasp top 10 , passed xml payload to the webiste and manipulated the script and sent to the parser to get the details of the user*
+###### *Solved few array questions*
+
 
 
 
