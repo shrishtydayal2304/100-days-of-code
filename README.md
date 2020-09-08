@@ -241,6 +241,9 @@ https://overthewire.org/
 ###### *Compeleted the Day 4 XML(EXTENSIBLE MARKUP LANGUAGE) task of owasp top 10 , passed xml payload to the webiste and manipulated the script and sent to the parser to get the details of the user*
 ###### *Solved few array questions*
 
+## Day 42 : 8th September 2020
+###### *Studied and revised topics of python and parcticed questions on those topics*
+###### *Completed level 8-11 of natas(over the wire)*
 
 
 
