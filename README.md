@@ -245,6 +245,10 @@ https://overthewire.org/
 ###### *Studied and revised topics of python and parcticed questions on those topics*
 ###### *Completed level 8-11 of natas(over the wire)*
 
+## Day 43 : 9th September 2020
+###### *Compeleted day 5 and day 6 task of owasp top 10 also studied about insecure deserilization*
+###### *Completed Crack the hash room @tryhackme*
+
 
 
  
