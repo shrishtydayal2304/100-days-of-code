@@ -249,6 +249,11 @@ https://overthewire.org/
 ###### *Compeleted day 5 and day 6 task of owasp top 10 also studied about insecure deserilization*
 ###### *Completed Crack the hash room @tryhackme*
 
+## Day 43 : 10th September 2020
+###### *Started the room Lian-Yu of @tryhackme and used gobuster to perfom web directory attack*
+###### *Practiced Stack questions*
+###### *Learned to use openstego tool and how to hide text in image*
+
 
 
  
