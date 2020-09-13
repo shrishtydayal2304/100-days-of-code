@@ -261,6 +261,9 @@ https://overthewire.org/
 # Day 46 : 12th September 2020
 ###### *Studied types of parsing and syntax analysis in compiler design*
 
+# Day 47 : 13th September 2020
+###### *Studied mobile forensics: different tools for sim forensics, sim card file system, data present in sim card*
+
 
 
 
