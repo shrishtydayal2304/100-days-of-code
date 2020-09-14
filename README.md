@@ -264,6 +264,12 @@ https://overthewire.org/
 # Day 47 : 13th September 2020
 ###### *Studied mobile forensics: different tools for sim forensics, sim card file system, data present in sim card*
 
+# Day 48 : 14th September 2020
+###### *Started  room Pickle rick on @tryhckme and completed two challenges*
+###### *Written a program in C to draw a line using Bresenham’s algorithm*
+
+
+
 
 
 
