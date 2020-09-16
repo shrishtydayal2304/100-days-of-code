@@ -233,44 +233,48 @@ https://overthewire.org/
 ### Day 39 : 5th September 2020
 ###### *Participated in a SimpleCTF and solved different ctf challenges and learned a lot *
 
-## Day 40 : 6th September 2020
+### Day 40 : 6th September 2020
 ###### *Continued playing the Simple CTF and ranked 6. It was fun learning in the ctf and solving challenges*
 ###### *Solved few array questions*
 
-## Day 41 : 7th September 2020
+### Day 41 : 7th September 2020
 ###### *Compeleted the Day 4 XML(EXTENSIBLE MARKUP LANGUAGE) task of owasp top 10 , passed xml payload to the webiste and manipulated the script and sent to the parser to get the details of the user*
 ###### *Solved few array questions*
 
-## Day 42 : 8th September 2020
+### Day 42 : 8th September 2020
 ###### *Studied and revised topics of python and parcticed questions on those topics*
 ###### *Completed level 8-11 of natas(over the wire)*
 
-## Day 43 : 9th September 2020
+### Day 43 : 9th September 2020
 ###### *Compeleted day 5 and day 6 task of owasp top 10 also studied about insecure deserilization*
 ###### *Completed Crack the hash room @tryhackme*
 
-## Day 44 : 10th September 2020
+### Day 44 : 10th September 2020
 ###### *Started the room Lian-Yu of @tryhackme and used gobuster to perfom web directory attack*
 ###### *Practiced Stack questions*
 ###### *Learned to use openstego tool and how to hide text in image*
 
-## Day 45 : 11th September 2020
+### Day 45 : 11th September 2020
 ###### *Practiced previous CTF challenges *
 ###### *Solved Stack questions from geeks for geeks*
 
-## Day 46 : 12th September 2020
+### Day 46 : 12th September 2020
 ###### *Studied types of parsing and syntax analysis in compiler design*
 
-## Day 47 : 13th September 2020
+### Day 47 : 13th September 2020
 ###### *Studied mobile forensics: different tools for sim forensics, sim card file system, data present in sim card*
 
-## Day 48 : 14th September 2020
+### Day 48 : 14th September 2020
 ###### *Started  room Pickle rick on @tryhckme and completed two challenges*
 ###### *Written a program in C to draw a line using Bresenham’s algorithm*
 
-## Day 49 : 15th September 2020
+### Day 49 : 15th September 2020
 ###### *Completed the room Pickle rick on @tryhckme and completed day[8] of OWASP 10*
 ###### *Studied python for viva and practiced questions on those topics*
+
+### Day 50 : 16th September 2020
+###### *Completed the room OWASP TOP 10 @tryhckme*
+###### *Started with DVWA sql injection*
 
 
 
