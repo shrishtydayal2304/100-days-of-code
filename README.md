@@ -281,6 +281,12 @@ https://overthewire.org/
 ###### *Solved stack question on geeks for geeks*
 ###### *done with DVWA XSS reflected , xss stored ,csrf and slq injection vulnerability at low and medium level of security*
 
+### Day 52 : 18th September 2020
+###### *Done with DVWA Brute force using burpsuite,file upload ,xss store vulnerability at low and medium level of security and learned more about them and csrf token*
+
+
+
+
 
 
 
