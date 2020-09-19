@@ -284,6 +284,13 @@ https://overthewire.org/
 ### Day 52 : 18th September 2020
 ###### *Done with DVWA Brute force using burpsuite,file upload ,xss store vulnerability at low and medium level of security and learned more about them and csrf token*
 
+### Day 53 : 19th September 2020
+###### *Started with room the boiler ctf @tryhackme*
+###### *Done with sql blind injection at low and medium level of security in dvwa*
+
+
+
+
 
 
 
