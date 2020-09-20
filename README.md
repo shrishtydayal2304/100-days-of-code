@@ -198,7 +198,7 @@ https://overthewire.org/
  ### Day 34 : 31st August 2020
 ###### *Completed the room hydra@tryhackme*
 ###### *Used bruteforce technique and used the hydra command for web post ,and sha*
-##### *I just published Tryhackme: Hydra Walkthrough at medium*
+#####  *I just published Tryhackme: Hydra Walkthrough at medium*
 ###### *Check the writeup at:https://link.medium.com/49e3o8KAo9 *
 ###### *Written a C program to draw y=mx+c using DDA algorithm*
 ###### *Solved one array question from geeks for geeks*
@@ -255,7 +255,7 @@ https://overthewire.org/
 ###### *Learned to use openstego tool and how to hide text in image*
 
 ### Day 45 : 11th September 2020
-###### *Practiced previous CTF challenges *
+###### *Practiced previous CTF challenges*
 ###### *Solved Stack questions from geeks for geeks*
 
 ### Day 46 : 12th September 2020
