@@ -292,6 +292,12 @@ https://overthewire.org/
 ###### *Started with room the Anonymous @tryhackme and did scanning and enumeration and tried to enumberate sbmclient*
 ###### *Completed upto level 16 in natas*
 
+### Day 55 : 20th September 2020
+###### *Completed with room the Anonymous @tryhackme*
+###### *Completed with room easy peasy @tryhackme and used gobuster ,enumeration ,nmap ,zenmap and stegnography and get root level privelage escalation and get the password*
+###### *Solved two queue questions*
+
+
 
 
 
