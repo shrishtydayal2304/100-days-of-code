@@ -298,9 +298,8 @@ https://overthewire.org/
 ###### *Solved two queue questions*
 
 ### Day 56 : 22th September 2020
-###### *Completed with room the Agent sudo @tryhackme ,performed enumeration ,scanning ,hash crack and password extraction along with root access to obtain the flag and*
-###### *connected to the open port ftp and ssh servers to get usefull informations*
-###### *Written C program to implement Circle midpoint algorithm and ellipse midpoint algorithm in OpenGl *
+###### *Completed with room the Agent sudo @tryhackme ,performed enumeration ,scanning ,hash crack and password extraction along with root access to obtain the flag and connected to the open port ftp and ssh servers to get usefull informations*
+###### *Written C program to implement Circle midpoint algorithm and ellipse midpoint algorithm in OpenGl*
 ###### *Solved two queue questions from geeks for geeks*
 
 
