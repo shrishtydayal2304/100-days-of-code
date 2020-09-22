@@ -199,7 +199,7 @@ https://overthewire.org/
 ###### *Completed the room hydra@tryhackme*
 ###### *Used bruteforce technique and used the hydra command for web post ,and sha*
 #####  *I just published Tryhackme: Hydra Walkthrough at medium*
-###### *Check the writeup at:https://link.medium.com/49e3o8KAo9 *
+###### Check the writeup at:https://link.medium.com/49e3o8KAo9 
 ###### *Written a C program to draw y=mx+c using DDA algorithm*
 ###### *Solved one array question from geeks for geeks*
 
@@ -292,10 +292,18 @@ https://overthewire.org/
 ###### *Started with room the Anonymous @tryhackme and did scanning and enumeration and tried to enumberate sbmclient*
 ###### *Completed upto level 16 in natas*
 
-### Day 55 : 20th September 2020
+### Day 55 : 21th September 2020
 ###### *Completed with room the Anonymous @tryhackme*
 ###### *Completed with room easy peasy @tryhackme and used gobuster ,enumeration ,nmap ,zenmap and stegnography and get root level privelage escalation and get the password*
 ###### *Solved two queue questions*
+
+### Day 56 : 22th September 2020
+###### *Completed with room the Agent sudo @tryhackme ,performed enumeration ,scanning ,hash crack and password extraction along with root access to obtain the flag and*
+###### *connected to the open port ftp and ssh servers to get usefull informations*
+###### *Written C program to implement Circle midpoint algorithm and ellipse midpoint algorithm in OpenGl *
+###### *Solved two queue questions from geeks for geeks*
+
+
 
 
 
