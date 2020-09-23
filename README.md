@@ -302,6 +302,10 @@ https://overthewire.org/
 ###### *Written C program to implement Circle midpoint algorithm and ellipse midpoint algorithm in OpenGl*
 ###### *Solved two queue questions from geeks for geeks*
 
+### Day 57 : 23rd September 2020
+###### *Completed with room the Security Bypass based on CVE-2019-14287  sudo unix system @tryhackme performed privilege escalation to get root access to obtain the flag*
+###### *Studied about percolation algorithm and its problem and how to implement this model*
+###### *Solved queue questions from geeks for geeks*
 
 
 
