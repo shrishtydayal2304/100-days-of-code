@@ -308,6 +308,13 @@ https://overthewire.org/
 ###### *Solved queue questions from geeks for geeks*
 
 
+### Day 58 : 24th September 2020
+###### *Completed with room Welcome @tryhackme and started another room Root me @tryhackme and performed nmap(or zenmap)scanning and gobuster web directory scanning*
+###### *Participated in Ekoparty 2020 ctf and solved challenges*
+
+
+
+
 
 
 
