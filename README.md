@@ -312,6 +312,14 @@ https://overthewire.org/
 ###### *Completed with room Welcome @tryhackme and started another room Root me @tryhackme and performed nmap(or zenmap)scanning and gobuster web directory scanning*
 ###### *Participated in Ekoparty 2020 ctf and solved challenges*
 
+### Day 59 : 25th September 2020
+###### *Completed room ROOTME @tryhackme and performed Reconnaissance ,uploading shell to get the flag,and Privilege escalation for getting the root access*
+###### *Studied the DSU Algorithm and the optimization method : path compression and union by rank*
+
+
+
+
+
 
 
 
