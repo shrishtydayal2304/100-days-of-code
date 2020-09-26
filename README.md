@@ -316,6 +316,11 @@ https://overthewire.org/
 ###### *Completed room ROOTME @tryhackme and performed Reconnaissance ,uploading shell to get the flag,and Privilege escalation for getting the root access*
 ###### *Studied the DSU Algorithm and the optimization method : path compression and union by rank*
 
+### Day 60 : 26th September 2020
+###### *Completed room Dav @tryhackme and performed Reconnaissance , Privilege escalation for getting the root access to get the flag*
+###### *Tried the challenge 2 of Cloudsek Vigil and completed till obtaining the access token*
+
+
 
 
 
