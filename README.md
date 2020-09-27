@@ -323,6 +323,8 @@ https://overthewire.org/
 
 ### Day 61 : 27th September 2020
 ###### *Successfully completed the challenge #2 CTF  of Cloudsek XVigil and documeneted the report*
+###### *Studied for minor*
+###### *Started the room WGel CTF @tryhackme and Starting with enumeration, I performed nmap scan and gobuster on this*
 
 
 
