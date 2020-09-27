@@ -321,6 +321,15 @@ https://overthewire.org/
 ###### *Tried the challenge 2 of Cloudsek Vigil and completed till obtaining the access token*
 
 
+### Day 61 : 27th September 2020
+###### *Successfully completed the challenge #2 CTF  of Cloudsek XVigil and documeneted the report*
+
+
+
+
+
+
+
 
 
 
