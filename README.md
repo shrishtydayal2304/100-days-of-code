@@ -326,6 +326,10 @@ https://overthewire.org/
 ###### *Studied for minor*
 ###### *Started the room WGel CTF @tryhackme and Starting with enumeration, I performed nmap scan and gobuster on this*
 
+### Day 62 : 28th September 2020
+###### *Studied for the minor presentation*
+######  *Performed Steganography using python script to hide text inside another image by using carrier medium and later on seeing checking the hidded text messgae*
+
 
 
 
