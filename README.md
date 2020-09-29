@@ -330,6 +330,10 @@ https://overthewire.org/
 ###### *Studied for the minor presentation*
 ######  *Performed Steganography using python script to hide text inside another image by using carrier medium and later on seeing checking the hidded text messgae*
 
+### Day 63 : 29th September 2020
+###### *Continued studiying for the minor presentation*
+###### *Implemented the line clipping algorithm in C language*
+
 
 
 
