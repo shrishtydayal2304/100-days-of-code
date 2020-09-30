@@ -334,6 +334,11 @@ https://overthewire.org/
 ###### *Continued studiying for the minor presentation*
 ###### *Implemented the line clipping algorithm in C language*
 
+### Day 64 : 30th September 2020
+###### *Studied union and find data structure*
+###### *Studied about the monte carlo simulation algorithm*
+
+
 
 
 
