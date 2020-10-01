@@ -339,6 +339,10 @@ https://overthewire.org/
 ###### *Studied about the monte carlo simulation algorithm*
 
 
+### Day 65 : 1st September 2020
+###### *Studied Line clipping and polygon clipping in computer graphics*
+
+
 
 
 
