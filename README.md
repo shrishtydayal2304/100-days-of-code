@@ -339,12 +339,12 @@ https://overthewire.org/
 ###### *Studied about the monte carlo simulation algorithm*
 
 
-### Day 65 : 1st September 2020
+### Day 65 : 1st October 2020
 ###### *Studied Line clipping and polygon clipping in computer graphics*
 
-
-
-
+### Day 66: 2nd October 2020
+###### *Compeleted with the Wgel CTF ROOM @tryhackme*
+###### *Studied Breshnham midpoint line algorithm in computer graphics*
 
 
 
