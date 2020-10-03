@@ -346,6 +346,14 @@ https://overthewire.org/
 ###### *Compeleted with the Wgel CTF ROOM @tryhackme*
 ###### *Studied Breshnham midpoint line algorithm in computer graphics*
 
+### Day 67: 3rd October 2020
+###### *Compeleted with the CTF Collection Volume 1 ROOM @tryhackme*
+###### *Studied computer graphics*
+###### *Studied about privilege escalation in kali*
+
+
+
+
 
 
 
