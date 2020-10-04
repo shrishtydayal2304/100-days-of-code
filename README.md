@@ -343,16 +343,16 @@ https://overthewire.org/
 ###### *Studied Line clipping and polygon clipping in computer graphics*
 
 ### Day 66: 2nd October 2020
-###### *Compeleted with the Wgel CTF ROOM @tryhackme*
+###### *Completed with the Wgel CTF ROOM @tryhackme*
 ###### *Studied Breshnham midpoint line algorithm in computer graphics*
 
 ### Day 67: 3rd October 2020
-###### *Compeleted with the CTF Collection Volume 1 ROOM @tryhackme*
+###### *Completed with the CTF Collection Volume 1 ROOM @tryhackme*
 ###### *Studied computer graphics*
 ###### *Studied about privilege escalation in kali*
 
 ### Day 68: 4th October 2020
-###### *Compeleted with the LazyAmdim ROOM @tryhackme ,used perl script and with the help of privilege escalation got the flag. learned a lot!!*
+###### *Completed with the LazyAdmin ROOM @tryhackme ,used perl script and with the help of privilege escalation got the flag. learned a lot!!*
 ###### *Started with 30DaysOfGoogleCloud*
 
 
