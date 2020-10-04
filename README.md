@@ -351,6 +351,12 @@ https://overthewire.org/
 ###### *Studied computer graphics*
 ###### *Studied about privilege escalation in kali*
 
+### Day 68: 4th October 2020
+###### *Compeleted with the LazyAmdim ROOM @tryhackme ,used perl script and with the help of privilege escalation got the flag. learned a lot!!*
+###### *Started with 30DaysOfGoogleCloud*
+
+
+
 
 
 
