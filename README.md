@@ -356,6 +356,14 @@ https://overthewire.org/
 ###### *Started with 30DaysOfGoogleCloud*
 
 
+### Day 69: 5th October 2020
+###### *Started with the Code Coper ROOM @tryhackme and completed the web and host enumeration usin nmap and gobuster and then performed web exploitation using sqlmap*
+###### *Performed steganography using OpenStego tool and did data hiding and extraction using diffrent types of file and cover files*
+###### *Studied digital forensics for midsem*
+
+
+
+
 
 
 
