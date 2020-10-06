@@ -361,6 +361,10 @@ https://overthewire.org/
 ###### *Performed steganography using OpenStego tool and did data hiding and extraction using diffrent types of file and cover files*
 ###### *Studied digital forensics for midsem*
 
+### Day 70: 6th October 2020
+###### *Studied compiler design topics:lexical analyser and about parsers (LL(1))*
+
+
 
 
 
