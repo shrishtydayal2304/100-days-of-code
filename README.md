@@ -357,12 +357,17 @@ https://overthewire.org/
 
 
 ### Day 69: 5th October 2020
-###### *Started with the Code Coper ROOM @tryhackme and completed the web and host enumeration usin nmap and gobuster and then performed web exploitation using sqlmap*
+###### *Started with the Code Caper ROOM @tryhackme and completed the web and host enumeration usin nmap and gobuster and then performed web exploitation using sqlmap*
 ###### *Performed steganography using OpenStego tool and did data hiding and extraction using diffrent types of file and cover files*
 ###### *Studied digital forensics for midsem*
 
 ### Day 70: 6th October 2020
 ###### *Studied compiler design topics:lexical analyser and about parsers (LL(1))*
+
+### Day 71: 7th October 2020
+###### *Studied Information security governance and continued with room cod caper @tryhackme*
+
+
 
 
 
