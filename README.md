@@ -367,6 +367,12 @@ https://overthewire.org/
 ### Day 71: 7th October 2020
 ###### *Studied Information security governance and continued with room cod caper @tryhackme*
 
+### Day 72: 8th October 2020
+###### *Studied file handling and exception handling in python*
+###### *Continued with the Cod Caper room and used reverse shell to get the flag using netcat and then tried to get the ssh password to have ssh connection*
+
+
+
 
 
 
