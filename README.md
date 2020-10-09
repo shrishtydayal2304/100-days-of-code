@@ -371,6 +371,11 @@ https://overthewire.org/
 ###### *Studied file handling and exception handling in python*
 ###### *Continued with the Cod Caper room and used reverse shell to get the flag using netcat and then tried to get the ssh password to have ssh connection*
 
+### Day 73: 9th October 2020
+###### *Studied  computer graphics for the mid semester exam*
+
+
+
 
 
 
