@@ -374,6 +374,9 @@ https://overthewire.org/
 ### Day 73: 9th October 2020
 ###### *Studied  computer graphics for the mid semester exam*
 
+### Day 74: 10th October 2020
+###### *Studied  computer graphics and performed steganography usng openstego*
+
 
 
 
