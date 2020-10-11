@@ -377,6 +377,8 @@ https://overthewire.org/
 ### Day 74: 10th October 2020
 ###### *Studied  computer graphics and performed steganography usng openstego*
 
+### Day 75: 11th October 2020
+###### *performed image steganography and documente the file and studied for midsem*
 
 
 
