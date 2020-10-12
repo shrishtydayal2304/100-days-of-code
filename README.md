@@ -380,6 +380,9 @@ https://overthewire.org/
 ### Day 75: 11th October 2020
 ###### *performed image steganography and documente the file and studied for midsem*
 
+### Day 76: 12th October 2020
+###### *Continued with 30Days of Google Cloud*
+
 
 
 
