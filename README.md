@@ -383,6 +383,10 @@ https://overthewire.org/
 ### Day 76: 12th October 2020
 ###### *Continued with 30Days of Google Cloud*
 
+### Day 77: 13th October 2020
+###### *Continued with 30Days of Google Cloud and learned how to use Cloud Shell and the Cloud SDK gcloud command*
+###### *Started with web fundamentals room @tryhackme and learned how to load website and about http request format*
+
 
 
 
