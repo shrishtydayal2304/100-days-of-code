@@ -387,6 +387,10 @@ https://overthewire.org/
 ###### *Continued with 30Days of Google Cloud and learned how to use Cloud Shell and the Cloud SDK gcloud command*
 ###### *Started with web fundamentals room @tryhackme and learned how to load website and about http request format*
 
+### Day 78: 14th October 2020
+###### *Continued with 30Days of Google Cloud and Kubernetes Engine: Qwik Start and learned to Set Up Network and HTTP Load Balancers*
+###### *Completed web fundamentals room @tryhackme and started ignite room @tryhackme*
+
 
 
 
