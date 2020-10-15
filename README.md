@@ -391,6 +391,10 @@ https://overthewire.org/
 ###### *Continued with 30Days of Google Cloud and Kubernetes Engine: Qwik Start and learned to Set Up Network and HTTP Load Balancers*
 ###### *Completed web fundamentals room @tryhackme and started ignite room @tryhackme*
 
+### Day 79: 15th October 2020
+###### *Continued with 30Days of Google Cloud and completed the Google Cloud Essentials Challenge Lab*
+###### *Performed watermarking files and images using openstego*
+
 
 
 
