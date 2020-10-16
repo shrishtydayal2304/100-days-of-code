@@ -395,6 +395,11 @@ https://overthewire.org/
 ###### *Continued with 30Days of Google Cloud and completed the Google Cloud Essentials Challenge Lab*
 ###### *Performed watermarking files and images using openstego*
 
+### Day 80: 16th October 2020
+###### *Completed the DataProc lab of 30DaysofCloud quest.Created a Google Cloud Dataproc cluster, and leraned to run a simple Apache Spark job in the cluster, then modify the number of workers in the cluster, all from the gcloud Command Line.*
+###### *Completed the event handling course from cybrary for dealing with digital/computer evidence*
+
+
 
 
 
