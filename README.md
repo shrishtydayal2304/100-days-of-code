@@ -399,6 +399,10 @@ https://overthewire.org/
 ###### *Completed the DataProc lab of 30DaysofCloud quest.Created a Google Cloud Dataproc cluster, and leraned to run a simple Apache Spark job in the cluster, then modify the number of workers in the cluster, all from the gcloud Command Line.*
 ###### *Completed the event handling course from cybrary for dealing with digital/computer evidence*
 
+### Day 81: 17th October 2020
+###### *Completed the forensic room volatility @tryhackme and used  the tool to analyse the given .vmem file . Also used virus total and hybrid analysis to check the malware present in the file*
+###### *Completed Dataflow template lab of #30DaysofCloud .It taught how to create a streaming pipeline using a Google-Provided Cloud Dataflow template.*
+
 
 
 
