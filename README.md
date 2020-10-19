@@ -406,6 +406,12 @@ https://overthewire.org/
 ### Day 82: 18th October 2020
 ##### *Created class diagram for hockey league and online railway reservation system*
 
+### Day 83: 19th October 2020
+##### *Completed Wifi-hacking room @tryhackme using aircrack-ng*
+##### *Continued with quest 2of #30DaysofGoogleCloud*
+
+
+
 
 
 
