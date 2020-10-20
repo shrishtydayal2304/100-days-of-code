@@ -411,6 +411,11 @@ https://overthewire.org/
 ##### *Continued with quest 2of #30DaysofGoogleCloud*
 
 
+### Day 84: 20th October 2020
+##### *Performed forensics using Sysinternal tools*
+##### *Continued with #30DaysofGoogleCloud and completed week 2 of venture ideation course #coursera*
+
+
 
 
 
