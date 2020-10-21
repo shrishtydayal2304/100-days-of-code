@@ -416,6 +416,11 @@ https://overthewire.org/
 ##### *Continued with #30DaysofGoogleCloud and completed week 2 of venture ideation course #coursera*
 
 
+### Day 85: 21st October 2020
+##### *Started with room Nessus @tryhackme and performed basic network scan*
+##### *Continued with #30DaysofGoogleCloud and completed challenge lab 2*
+
+
 
 
 
