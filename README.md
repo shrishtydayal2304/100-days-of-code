@@ -420,6 +420,11 @@ https://overthewire.org/
 ##### *Started with room Nessus @tryhackme and performed basic network scan*
 ##### *Continued with #30DaysofGoogleCloud and completed challenge lab 2*
 
+### Day 86: 22nd October 2020
+##### *Completed room Nessus @tryhackme*
+##### *Continued with #30DaysofGoogleCloud and completed Perform foundational infrastructure task*
+
+
 
 
 
