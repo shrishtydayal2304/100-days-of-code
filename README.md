@@ -424,6 +424,11 @@ https://overthewire.org/
 ##### *Completed room Nessus @tryhackme*
 ##### *Continued with #30DaysofGoogleCloud and completed Perform foundational infrastructure task*
 
+### Day 87: 23rd October 2020
+##### *Continued with #30DaysofGoogleCloud and completed Orchestrating the Cloud with Kubernetes and Deployment Manager - Full Production*
+##### *learned basic black box monitoring with Cloud Monitoring Dashboard and establish uptime check alert notification to trigger incident response:)*
+
+
 
 
 
