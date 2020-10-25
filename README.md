@@ -431,6 +431,10 @@ https://overthewire.org/
 ### Day 88: 23rd October 2020
 ##### *Continued with #30DaysofGoogleCloud and completed set up and Configure a Cloud Environment in Google Cloud lab*
 
+### Day 89: 24th October 2020
+##### *Continued with #30DaysofGoogleCloud and completed VPC Networks - Controlling Access*
+
+
 
 
 
