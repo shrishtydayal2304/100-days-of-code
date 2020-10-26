@@ -428,11 +428,15 @@ https://overthewire.org/
 ##### *Continued with #30DaysofGoogleCloud and completed Orchestrating the Cloud with Kubernetes and Deployment Manager - Full Production*
 ##### *learned basic black box monitoring with Cloud Monitoring Dashboard and establish uptime check alert notification to trigger incident response:)*
 
-### Day 88: 23rd October 2020
+### Day 88: 24rd October 2020
 ##### *Continued with #30DaysofGoogleCloud and completed set up and Configure a Cloud Environment in Google Cloud lab*
 
-### Day 89: 24th October 2020
+### Day 89: 25th October 2020
 ##### *Continued with #30DaysofGoogleCloud and completed VPC Networks - Controlling Access*
+
+### Day 90: 26th October 2020
+##### *Continued with #30DaysofGoogleCloud and completed Set up and Configure a Cloud Environment in Google Cloud*
+##### *Performed forensics using volatility tool for analysing memory dump*
 
 
 
