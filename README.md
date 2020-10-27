@@ -438,6 +438,11 @@ https://overthewire.org/
 ##### *Continued with #30DaysofGoogleCloud and completed Set up and Configure a Cloud Environment in Google Cloud*
 ##### *Performed forensics using volatility tool for analysing memory dump*
 
+### Day 91: 27th October 2020
+##### *Continued with #30DaysofGoogleCloud and completed Build and Secure Networks in Google Cloud: Challenge Lab*
+##### *Drawn sequence and collaboration diagram for atm and library managemnet system*
+
+
 
 
 
