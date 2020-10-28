@@ -443,7 +443,7 @@ https://overthewire.org/
 ##### *Drawn sequence and collaboration diagram for atm and library managemnet system*
 
 ### Day 92: 28th October 2020
-##### *Continued with #30DaysofGoogleCloud and completedExplore and Create Reports with Data Studio*
+##### *Continued with #30DaysofGoogleCloud and completed Explore and Create Reports with Data Studio and BigQuery: Qwik Start - Command Line*
 ##### *Started with Innovation & Entrepreneurship - From Basics to Open Innovation In Progress on Coursera*
 
 
