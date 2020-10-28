@@ -444,7 +444,8 @@ https://overthewire.org/
 
 ### Day 92: 28th October 2020
 ##### *Continued with #30DaysofGoogleCloud and completedExplore and Create Reports with Data Studio*
-##### *Started with
+##### *Started with Innovation & Entrepreneurship - From Basics to Open Innovation In Progress on Coursera*
+
 
 
 
