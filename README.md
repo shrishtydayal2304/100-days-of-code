@@ -442,6 +442,9 @@ https://overthewire.org/
 ##### *Continued with #30DaysofGoogleCloud and completed Build and Secure Networks in Google Cloud: Challenge Lab*
 ##### *Drawn sequence and collaboration diagram for atm and library managemnet system*
 
+### Day 92: 28th October 2020
+##### *Continued with #30DaysofGoogleCloud and completedExplore and Create Reports with Data Studio*
+##### *Started with
 
 
 
