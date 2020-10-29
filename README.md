@@ -446,6 +446,11 @@ https://overthewire.org/
 ##### *Continued with #30DaysofGoogleCloud and completed Explore and Create Reports with Data Studio and BigQuery: Qwik Start - Command Line*
 ##### *Started with Innovation & Entrepreneurship - From Basics to Open Innovation In Progress on Coursera*
 
+### Day 93: 29th October 2020
+##### *Continued with #30DaysofGoogleCloud and completed Site Reliability Troubleshooting with Cloud Monitoring APM*
+##### *Studied Information security governance*
+
+
 
 
 
