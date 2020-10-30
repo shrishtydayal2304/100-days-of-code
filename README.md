@@ -451,6 +451,12 @@ https://overthewire.org/
 ##### *Studied Information security governance*
 
 
+### Day 94: 30th October 2020
+##### *Continued with #30DaysofGoogleCloud and completed User Authentication: Identity-Aware Proxy*
+##### *Completed week 4 of Innovation & Entrepreneurship - From Basics to Open Innovation In Progress on Coursera*
+
+
+
 
 
 
