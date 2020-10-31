@@ -456,6 +456,13 @@ https://overthewire.org/
 ##### *Completed week 4 of Innovation & Entrepreneurship - From Basics to Open Innovation In Progress on Coursera*
 
 
+### Day 95: 31st October 2020
+##### *Continued with #30DaysofGoogleCloud and  Cloud Engineering Track*
+##### See my badges: https://lnkd.in/g2s5c2H
+##### *Completed Tutorial @tryhackme Check it out:https://tryhackme.com/room/tutorial*
+
+
+
 
 
 
