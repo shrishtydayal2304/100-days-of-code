@@ -457,14 +457,14 @@ https://overthewire.org/
 
 
 ### Day 95: 31st October 2020
-##### *Continued with #30DaysofGoogleCloud and  Cloud Engineering Track*
+##### *Continued with #30DaysofGoogleCloud and completed Cloud Engineering Track*
 ##### See my badges: https://lnkd.in/g2s5c2H
 ##### *Completed Tutorial @tryhackme Check it out:https://tryhackme.com/room/tutorial*
 
 
-
-
-
+### Day 96: 1st November 2020
+##### *Continued with #30DaysofGoogleCloud and completed Identifying Bias in Mortgage Data using Cloud AI Platform and the What-if Tool*
+##### *Started with Wireshark @tryhackme*
 
 
 
