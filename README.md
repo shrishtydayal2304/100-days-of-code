@@ -464,7 +464,7 @@ https://overthewire.org/
 
 ### Day 96: 1st November 2020
 ##### *Continued with #30DaysofGoogleCloud and completed Identifying Bias in Mortgage Data using Cloud AI Platform and the What-if Tool*
-##### *Started with Wireshark @tryhackme*
+##### *Completed with Learn linux and Started with Wireshark @tryhackme*
 
 
 
