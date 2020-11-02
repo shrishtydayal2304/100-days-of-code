@@ -466,7 +466,7 @@ https://overthewire.org/
 ##### *Continued with #30DaysofGoogleCloud and completed Identifying Bias in Mortgage Data using Cloud AI Platform and the What-if Tool*
 ##### *Completed with Learn linux and Started with Wireshark @tryhackme*
 
-### Day 96: 1st November 2020
+### Day 97: 2nd November 2020
 ##### *Continued with #30DaysofGoogleCloud and completed Explore Machine Learning Models with Explainable AI: Challenge Lab*
 ##### *Written flood fill code in  C using openGL*
 
