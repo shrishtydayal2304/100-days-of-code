@@ -471,6 +471,10 @@ https://overthewire.org/
 ##### *Written flood fill code in  C using openGL*
 
 
+### Day 98: 3rd November 2020
+##### *Continued with #30DaysofGoogleCloud and completed Cloud Composer: Copying BigQuery Tables Across Different Locations to favorites*
+#####  *Completed the room Musical Stego @tryhackme .Analyzed the given .wav file and extracted data using exiftool and using sonic visualizer along with steghide*
+
 
 
 
