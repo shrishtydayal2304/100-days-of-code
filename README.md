@@ -475,7 +475,7 @@ https://overthewire.org/
 ##### *Continued with #30DaysofGoogleCloud and completed Cloud Composer: Copying BigQuery Tables Across Different Locations to favorites*
 #####  *Completed the room Musical Stego @tryhackme .Analyzed the given .wav file and extracted data using exiftool and using sonic visualizer along with steghide*
 
-### Day 98: 3rd November 2020
+### Day 99: 4th November 2020
 ##### *Continued with #30DaysofGoogleCloud and completed ETL Processing on Google Cloud Using Dataflow and BigQuery Add to favorites*
 ##### *Started with Retro @tryhackme*
 
