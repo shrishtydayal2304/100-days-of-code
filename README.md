@@ -479,7 +479,9 @@ https://overthewire.org/
 ##### *Continued with #30DaysofGoogleCloud and completed ETL Processing on Google Cloud Using Dataflow and BigQuery Add to favorites*
 ##### *Started with Retro @tryhackme*
 
-
+### Day 100: 5th November 2020
+##### *Continued with #30DaysofGoogleCloud Perform Foundational Data, ML, and AI Tasks in Google Cloud: Challenge Lab Add to favorites*
+##### *Completed venture ideation course #coursera*
 
 
 
